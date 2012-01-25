@@ -117,7 +117,7 @@ Apache::AuthPOP3 - Authentication and Authorization via POP3
 
   # In httpd.conf or startup.pl:
 
-  PerlModule Apache::AuthDBI
+  PerlModule Apache::AuthPOP3
 
   # In httpd.conf or .htaccess:
 
